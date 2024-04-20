@@ -1,16 +1,16 @@
 ### Hi there 👋
+> I say nya-o　あなたの傍で.
 
-<!--
-**Hanekihyouka/Hanekihyouka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![hanekihyouka's Stats](https://github-readme-stats.vercel.app/api?username=hanekihyouka&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-Here are some ideas to get you started:
+![hanekihyouka's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanekihyouka&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minecraft 玩家，土木工程师，自宅警备员。   
+什么都会一点，喜欢自己动手捣鼓。   
+btw, i use arch.   
+
+Find me at:  
+\- [Home](https://haneki.100oj.com/)  
+\- [Twitter](https://twitter.com/Haneki_hyouka)  
+\- [Matrix](https://matrix.to/#/#lobby:100oj.com)   
+\- [Telegram](https://t.me/hanekihyouka)   

@@ -1,9 +1,11 @@
 ### Hi there 👋
 > I say nya-o　あなたの傍で.
 
-![hanekihyouka's Stats](https://github-readme-stats.vercel.app/api?username=hanekihyouka&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+<a align="center" href="https://github.com/Hanekihyouka">
+  <img align="center" alt="hanekihyouka's Stats" src="https://github-readme-stats.vercel.app/api?username=hanekihyouka&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+  <img align="center" alt="hanekihyouka's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanekihyouka&theme=dracula&show_icons=true&hide_border=true&layout=compact" />
+</a>
 
-![hanekihyouka's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanekihyouka&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ### 我喜欢猫，请发猫图给我
 Minecraft 玩家，土木工程师，自宅警备员。   
